@@ -1,0 +1,10 @@
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\bin\Debug\PracticaEspacioDinamico.exe.config
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\bin\Debug\PracticaEspacioDinamico.exe
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\bin\Debug\PracticaEspacioDinamico.pdb
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.Form1.resources
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.Properties.Resources.resources
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.exe
+C:\Users\agust\source\repos\PracticaEspacioDinamico\PracticaEspacioDinamico\obj\Debug\PracticaEspacioDinamico.pdb
